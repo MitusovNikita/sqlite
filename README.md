@@ -1,2 +1,2 @@
 # sqlite
-Simple sqlite queries
+Реализация простых запросов к базе данных sqlite.
